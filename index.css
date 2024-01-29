@@ -1,0 +1,29 @@
+.body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 1.5rem;
+background-color: rgb(218, 225, 199);
+}
+
+.heading, .introduction, .favorites{
+    margin: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+a {
+    color:blue;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active {
+    color: red;
+}
+
+
